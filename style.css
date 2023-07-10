@@ -223,7 +223,7 @@ footer{
         font-size: 400%;
     }
     .bottom button{
-        margin-top:20px;
+        margin-top:0;
         font-size:100%;
     }
     #about h1{
