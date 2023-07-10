@@ -222,6 +222,10 @@ footer{
     #home h1{
         font-size: 400%;
     }
+    .bottom button{
+        margin-top:20px;
+        font-size:100%;
+    }
     #about h1{
         padding-left: 30px;
         font-size: 100%;
