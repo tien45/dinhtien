@@ -103,7 +103,7 @@
 .text{
     width:1000px;
     margin: 50px;
-    color:#fff;
+    color:#000;
 }
 .text h1{
     padding-left: 500px;
@@ -125,7 +125,7 @@ img{
     width:650px;
     align-items: center;
     justify-content: center;
-    color:aqua;
+    color:#000;
     padding-left: 30px;
 }
 .etc img{
@@ -143,7 +143,7 @@ img{
     width:650px;
     align-items: center;
     justify-content: center;
-    color:aqua;
+    color:#000;
 }
 .ictu{
     width:500px;
