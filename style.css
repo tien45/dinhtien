@@ -54,7 +54,7 @@
     height:700px;
 }
 .top{
-    background:aqua;
+    background:violet;
     height:400px;
     color:white;
     text-align: center;
@@ -67,7 +67,7 @@
 }
 .bottom{
     height:100px;
-    color:aqua;
+    color:violet;
     text-align: center;
 }
 .bottom h2{
@@ -83,7 +83,7 @@
     width:150px;
     height: 50px;
     border-radius: 20px;
-    background:aqua;
+    background:violet;
     color:#fff;
     margin-top: 40px;
     font-size: 20px;
