@@ -41,7 +41,7 @@
     padding:10px;
 }
 .list li:hover{
-    background:aqua;
+    background:violet;
 }
 .list li a:hover{
     color:#fff;
