@@ -234,11 +234,11 @@ footer{
         font-size: 100%;
     }
     #about .text{
-        width:100%;
+        width:150%;
         margin:10px;
     }
     #about .img{
-        width:100%;
+        width:50%;
     }
     #about img{
         margin-top: 40px;
