@@ -59,23 +59,23 @@
     color:white;
     text-align: center;
 }
-.top h2{
+.top h1{
     align-items: center;
     justify-content: center;
     padding-top:300px;
-    font-size: 50px;
+    font-size: 100px;
 }
 .bottom{
     height:100px;
     color:violet;
     text-align: center;
 }
-/* .bottom h2{
+.bottom h2{
     align-items: center;
     justify-content: center;
     padding-top:30px;
     font-size: 40px;
-} */
+}
 .bottom p{
     font-size: 20px;
 }
@@ -219,7 +219,7 @@ footer{
     #home, #about, #works, #contact{
         width:100%;
     }
-    #home h2{
+    #home h1{
         font-size: 400%;
     }
     .bottom button{
