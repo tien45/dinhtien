@@ -59,7 +59,7 @@
     color:white;
     text-align: center;
 }
-.top h1{
+.top h2{
     align-items: center;
     justify-content: center;
     padding-top:300px;
@@ -70,12 +70,12 @@
     color:violet;
     text-align: center;
 }
-.bottom h2{
+/* .bottom h2{
     align-items: center;
     justify-content: center;
     padding-top:30px;
     font-size: 40px;
-}
+} */
 .bottom p{
     font-size: 20px;
 }
@@ -219,7 +219,7 @@ footer{
     #home, #about, #works, #contact{
         width:100%;
     }
-    #home h1{
+    #home h2{
         font-size: 400%;
     }
     .bottom button{
