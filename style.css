@@ -90,7 +90,7 @@
     box-shadow: #333;
 }
 .bottom button:hover{
-    background:rgb(0, 195, 255);
+    background:aqua;
 }
 .bottom button a{
     text-decoration: none;
